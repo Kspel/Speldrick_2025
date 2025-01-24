@@ -1,2 +1,3 @@
 # Speldrick_2025
-A compiled documentation of astronomy related work I've done.
+A compiled documentation of the coding I did related to Astronomy. I used [Prose](https://prose.readthedocs.io/en/latest/ipynb/fitsmanager.html) and [Python for
+Astronomers](https://prappleizer.github.io/)
